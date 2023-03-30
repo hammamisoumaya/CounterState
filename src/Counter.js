@@ -24,8 +24,7 @@ componentDidMount(){
 //update du compartiment
 componentDidUpdate(){
     console.log("il y a un update")
-    console.log(this.state.timer)
-}
+   console.log(this.state.timer)}
 
 //Kill 
 componentWillUnmount(){
